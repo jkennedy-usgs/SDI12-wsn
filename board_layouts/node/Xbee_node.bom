@@ -1,0 +1,27 @@
+Partlist exported from E:/quickr/Library/Eagle/projects/Xbee_node/Xbee_node.sch at 4/27/2010 8:44:35 PM
+
+Part          Value                    Device                   Package              Description                         
+BATT          22-23-2021               22-23-2021               22-23-2021           .100" (2.54mm) Center Header - 2 Pin
+C1            68 uF                    CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+C2            68 uF                    CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+C3            0.1 uF                   CAPPTH2                  CAP-PTH-SMALL2       Capacitor                           
+C4            1 uF                     CAPPTH2                  CAP-PTH-SMALL2       Capacitor                           
+C5            8.2 pF                   CAPPTH2                  CAP-PTH-SMALL2       Capacitor                           
+C6            1 uF                     CAPPTH2                  CAP-PTH-SMALL2       Capacitor                           
+C7            1 uF                     CAPPTH2                  CAP-PTH-SMALL2       Capacitor                           
+COMMISSIONING SWITCH-MOMENTARY-2SOLDER SWITCH-MOMENTARY-2SOLDER 1X02                                                     
+D1            1N5817                   SCHOTTKY-DIODEDO35-7     DO35-7               Schottky Diode                      
+D2            1N4004                   1N4004                   DO41-10              DIODE                               
+LOOPBACK                               JP1E                     JP1                  JUMPER                              
+MAX856        MAX856                   MAX856                   SO08                                                     
+R1                                     R-US_0411/12             0411/12              RESISTOR, American symbol           
+R2                                     R-US_0411/12             0411/12              RESISTOR, American symbol           
+RSSI                                   LED3MM                   LED3MM               LED                                 
+S1            RESET                    TAC_SWITCHPTH            TACTILE-PTH          Momentary Switch                    
+SLEEP                                  LED3MM                   LED3MM               LED                                 
+SOLAR         22-23-2021               22-23-2021               22-23-2021           .100" (2.54mm) Center Header - 2 Pin
+SW1                                    SW_DIP-8                 DIPSWITCH-08         DIP Switch 8 Position               
+U$1           XBEE-1B2                 XBEE-1B2                 XBEE-SILK                                                
+U$2           DECAGON10HSSCREWTERMINAL DECAGON10HSSCREWTERMINAL SCREWTERMINAL-5MM-3                                      
+U$3           DECAGON10HSSCREWTERMINAL DECAGON10HSSCREWTERMINAL SCREWTERMINAL-5MM-3                                      
+U$4           47uH                     MURATA_RADIAL_IND        MURATA_IND                                               

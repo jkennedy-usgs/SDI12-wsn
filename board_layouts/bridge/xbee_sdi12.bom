@@ -1,0 +1,46 @@
+Partlist exported from E:/quickr/Library/Eagle/projects/Xbee_SDI12/xbee_sdi12.sch at 4/27/2010 8:43:31 PM
+
+Part           Value                    Device                   Package              Description                         
+2,5            SDI12                    SDI12                    SDI12                                                    
+7.5V           1n4737                   1N4728                   DO41Z10              Z DIODE                             
+C1             1 uF                     CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C2             8.2 pF                   CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C3             10 uF                    CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+C4             1 uF                     CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C5             22 pf                    CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C6             22 pf                    CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C7             0.0033uF                 CAPPTH                   CAP-PTH-SMALL        Capacitor                           
+C8             100 uF                   CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+C10            68uF                     CPOL-USE3.5-8            E3,5-8               POLARIZED CAPACITOR, American symbol
+C11            1 uF                     CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+C12            1 uF                     CAP_POLPTH2              CPOL-RADIAL-10UF-25V Capacitor Polarized                 
+D1             1.5KE20A                 15KEXXD                  DO201T15             DIODE                               
+ESD            SP721                    SP721                    DIL08                                                    
+F1                                      19560                    19560                FUSE HOLDER                         
+ISPRST                                  SJ                       SJ                   SMD solder JUMPER                   
+ISP_V                                   SJ                       SJ                   SMD solder JUMPER                   
+JTAGRST                                 SJ                       SJ                   SMD solder JUMPER                   
+JTAG_CONNECTOR JTAG_CONNECTOR           JTAG_CONNECTOR           2X5-SHROUDED                                             
+JTAG_V                                  SJ                       SJ                   SMD solder JUMPER                   
+LED1           SLEEP                    LED3MM                   LED3MM               LED                                 
+LED2           ASSOC                    LED3MM                   LED3MM               LED                                 
+LED3           RSSI                     LED3MM                   LED3MM               LED                                 
+Q2             4 MHz                    CRYSTALHC49US            HC49US               Crystals                            
+R1             510                      R-US_0309/10             0309/10              RESISTOR, American symbol           
+R2             200K                     R-US_0309/10             0309/10              RESISTOR, American symbol           
+R3                                      R-US_0309/10             0309/10              RESISTOR, American symbol           
+R4                                      R-US_0309/10             0309/10              RESISTOR, American symbol           
+R5             4.7k                     R-US_0309/10             0309/10              RESISTOR, American symbol           
+R6             510                      R-US_0309/10             0309/10              RESISTOR, American symbol           
+R7                                      R-US_0309/10             0309/10              RESISTOR, American symbol           
+S1             SWITCH-MOMENTARY-2       SWITCH-MOMENTARY-2       TACTILE-PTH-RA                                           
+S3             AVR RESET                SWITCH-MOMENTARY-2       TACTILE-PTH-RA                                           
+S4             SWITCH-MOMENTARY-2SOLDER SWITCH-MOMENTARY-2SOLDER 1X02                                                     
+U$1            XBEE-1B2                 XBEE-1B2                 XBEE-SILK                                                
+U$2            ATMEGA644                ATMEGA644                DIL40                                                    
+U$3            AVR_SPI_PRG_6PTH         AVR_SPI_PRG_6PTH         2X3                  AVR ISP 6 Pin                       
+U$4            LCD                      EA_LCD                   SIL40                                                    
+U$6            SN74AHCT1G125            SN74AHCT1G125            SOT23-5                                                  
+U$7            SN74LVC2GU04             SN74LVC2GU04             DBV_R-PDSO-G6                                            
+U$8            V_REG                    V_REG                    TO-92                                                    
+VREG1          3.3V                     3.3V_VREGNOSILKSCREEN    TO220-PADS                                               

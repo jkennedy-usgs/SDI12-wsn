@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="985px" height="708px" viewBox="0 0 985 708" enable-background="new 0 0 985 708" xml:space="preserve">
+<ellipse stroke="#000000" cx="134" cy="41" rx="8" ry="8"/>
+<path stroke="#000000" d="M190,17h108c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H190c-8.836,0-16-7.164-16-16V33
+	C174,24.164,181.164,17,190,17z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M190,17h108c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H190
+	c-8.836,0-16-7.164-16-16V33C174,24.164,181.164,17,190,17z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M190,17h108c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H190
+	c-8.836,0-16-7.164-16-16V33C174,24.164,181.164,17,190,17z"/>
+<text transform="matrix(1 0 0 1 200 31)" font-family="'ArialMT'" font-size="8">kSDI12_StatIdle</text>
+<line fill="none" stroke="#000000" x1="174" y1="41" x2="313" y2="41"/>
+<text transform="matrix(1 0 0 1 176 54)" font-family="'ArialMT'" font-size="8">Turn timer off</text>
+<path stroke="#000000" d="M780,17h97c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-97c-8.837,0-16-7.164-16-16V33
+	C764,24.164,771.163,17,780,17z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M780,17h97c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-97c-8.837,0-16-7.164-16-16
+	V33C764,24.164,771.163,17,780,17z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M780,17h97c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-97c-8.837,0-16-7.164-16-16
+	V33C764,24.164,771.163,17,780,17z"/>
+<text transform="matrix(1 0 0 1 776 31)" font-family="'ArialMT'" font-size="8">kSDI12_StatTstMrk</text>
+<line fill="none" stroke="#000000" x1="764" y1="41" x2="892" y2="41"/>
+<text transform="matrix(1 0 0 1 766 54)" font-family="'ArialMT'" font-size="8">Reset timer 1, 8.33 ms</text>
+<path stroke="#000000" d="M790,217h92c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-92c-8.837,0-16-7.164-16-16v-14
+	C774,224.164,781.163,217,790,217z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M790,217h92c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-92
+	c-8.837,0-16-7.164-16-16v-14C774,224.164,781.163,217,790,217z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M790,217h92c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-92
+	c-8.837,0-16-7.164-16-16v-14C774,224.164,781.163,217,790,217z"/>
+<text transform="matrix(1 0 0 1 780 231)" font-family="'ArialMT'" font-size="8">kSDI12_StatWaitChr</text>
+<line fill="none" stroke="#000000" x1="774" y1="241" x2="897" y2="241"/>
+<text transform="matrix(1 0 0 1 776 254)" font-family="'ArialMT'" font-size="8">Buffer SDI12 Rx</text>
+<path stroke="#000000" d="M776,129h102c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H776c-8.837,0-16-7.164-16-16v-14
+	C760,136.164,767.163,129,776,129z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M776,129h102c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H776
+	c-8.837,0-16-7.164-16-16v-14C760,136.164,767.163,129,776,129z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M776,129h102c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H776
+	c-8.837,0-16-7.164-16-16v-14C760,136.164,767.163,129,776,129z"/>
+<text transform="matrix(1 0 0 1 773 143)" font-family="'ArialMT'" font-size="8">kSDI12_StatWaitAct</text>
+<line fill="none" stroke="#000000" x1="760" y1="153" x2="893" y2="153"/>
+<path stroke="#000000" d="M742,561h145c8.837,0,16,7.163,16,16v56c0,8.837-7.163,16-16,16H742c-8.837,0-16-7.163-16-16v-56
+	C726,568.163,733.163,561,742,561z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M742,561h145c8.837,0,16,7.163,16,16v56c0,8.837-7.163,16-16,16H742
+	c-8.837,0-16-7.163-16-16v-56C726,568.163,733.163,561,742,561z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M742,561h145c8.837,0,16,7.163,16,16v56c0,8.837-7.163,16-16,16H742
+	c-8.837,0-16-7.163-16-16v-56C726,568.163,733.163,561,742,561z"/>
+<text transform="matrix(1 0 0 1 755 575)" font-family="'ArialMT'" font-size="8">kSDI12_StatWaitSRQ</text>
+<line fill="none" stroke="#000000" x1="726" y1="585" x2="902" y2="585"/>
+<text transform="matrix(1 0 0 1 728 598)" font-family="'ArialMT'" font-size="8">Increment measurement</text>
+<text transform="matrix(1 0 0 1 728 614)" font-family="'ArialMT'" font-size="8">response time timer</text>
+<path stroke="#000000" d="M302,545h73c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16h-73c-8.836,0-16-7.163-16-16v-14
+	C286,552.163,293.164,545,302,545z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M302,545h73c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16h-73
+	c-8.836,0-16-7.163-16-16v-14C286,552.163,293.164,545,302,545z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M302,545h73c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16h-73
+	c-8.836,0-16-7.163-16-16v-14C286,552.163,293.164,545,302,545z"/>
+<text transform="matrix(1 0 0 1 292 559)" font-family="'ArialMT'" font-size="8">kSDI12_StatABrk</text>
+<line fill="none" stroke="#000000" x1="286" y1="569" x2="390" y2="569"/>
+<path stroke="#000000" d="M486,17h128c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H486c-8.837,0-16-7.164-16-16V33
+	C470,24.164,477.163,17,486,17z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M486,17h128c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H486
+	c-8.837,0-16-7.164-16-16V33C470,24.164,477.163,17,486,17z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M486,17h128c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H486
+	c-8.837,0-16-7.164-16-16V33C470,24.164,477.163,17,486,17z"/>
+<text transform="matrix(1 0 0 1 498 31)" font-family="'ArialMT'" font-size="8">kSDI12_StatTstBrk</text>
+<line fill="none" stroke="#000000" x1="470" y1="41" x2="629" y2="41"/>
+<text transform="matrix(1 0 0 1 472 54)" font-family="'ArialMT'" font-size="8">Start timer 1, 100 ms</text>
+<path fill="#FFFFFF" stroke="#000000" d="M701.5,440h186c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16h-186
+	c-8.837,0-16-7.163-16-16v-14C685.5,447.163,692.663,440,701.5,440z"/>
+<text transform="matrix(1 0 0 1 748 455)" font-family="'ArialMT'" font-size="8">kSDI12_StatSndResp</text>
+<line fill="none" stroke="#000000" x1="686.5" y1="465" x2="903.5" y2="465"/>
+<text transform="matrix(1 0 0 1 728 473)" font-family="'ArialMT'" font-size="8">Transmit response using TX ISR</text>
+<path fill="#FFFFFF" stroke="#000000" d="M762.6,321H927.4c11.378,0,20.6,5.487,20.6,12.255v47.49c0,6.769-9.222,12.255-20.6,12.255
+	H762.6c-11.378,0-20.6-5.486-20.6-12.255v-47.49C742,326.487,751.222,321,762.6,321z"/>
+<text transform="matrix(1 0 0 1 767 335)" font-family="'ArialMT'" font-size="8">kSDI12_StatSndMrk</text>
+<line fill="none" stroke="#000000" x1="742" y1="345" x2="901" y2="345"/>
+<text transform="matrix(1 0 0 1 744 358)" font-family="'ArialMT'" font-size="8">Marking period, 8.33 ms</text>
+<text transform="matrix(1 0 0 1 744 374)" font-family="'ArialMT'" font-size="8">If SDI-12 command was &apos;M&apos;,</text>
+<text transform="matrix(1 0 0 1 850 374)" font-family="'ArialMT'" font-size="8">notify WSN state machine</text>
+<text transform="matrix(1 0 0 1 744 383)" font-family="'ArialMT'" font-size="8">to prepare response</text>
+<g>
+	<path stroke="#000000" d="M419,489h137c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16H419c-8.837,0-16-7.163-16-16v-14
+		C403,496.163,410.163,489,419,489z"/>
+	<path fill="#FFFFFF" stroke="#FFFFFF" d="M419,489h137c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16H419
+		c-8.837,0-16-7.163-16-16v-14C403,496.163,410.163,489,419,489z"/>
+	<path fill="#FFFFFF" stroke="#000000" d="M419,489h137c8.837,0,16,7.163,16,16v14c0,8.837-7.163,16-16,16H419
+		c-8.837,0-16-7.163-16-16v-14C403,496.163,410.163,489,419,489z"/>
+	<text transform="matrix(1 0 0 1 426 503)" font-family="'ArialMT'" font-size="8">kSDI12_StatSendSRQ</text>
+	<line fill="none" stroke="#000000" x1="403" y1="513" x2="571" y2="513"/>
+	<text transform="matrix(1 0 0 1 405 526)" font-family="'ArialMT'" font-size="8">Transmit SRQ using TX ISR</text>
+</g>
+<path stroke="#000000" d="M518,241h106c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H518c-8.837,0-16-7.164-16-16v-14
+	C502,248.164,509.163,241,518,241z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M518,241h106c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H518
+	c-8.837,0-16-7.164-16-16v-14C502,248.164,509.163,241,518,241z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M518,241h106c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16H518
+	c-8.837,0-16-7.164-16-16v-14C502,248.164,509.163,241,518,241z"/>
+<text transform="matrix(1 0 0 1 508 255)" font-family="'ArialMT'" font-size="8">kSDI12_StatWaitDBrk2</text>
+<line fill="none" stroke="#000000" x1="502" y1="265" x2="639" y2="265"/>
+<path stroke="#000000" d="M526,145h75c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-75c-8.837,0-16-7.164-16-16v-14
+	C510,152.164,517.163,145,526,145z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M526,145h75c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-75
+	c-8.837,0-16-7.164-16-16v-14C510,152.164,517.163,145,526,145z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M526,145h75c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-75
+	c-8.837,0-16-7.164-16-16v-14C510,152.164,517.163,145,526,145z"/>
+<text transform="matrix(1 0 0 1 516 159)" font-family="'ArialMT'" font-size="8">kSDI12_StatDBrk</text>
+<line fill="none" stroke="#000000" x1="510" y1="169" x2="616" y2="169"/>
+<path stroke="#000000" d="M382,121h77c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-77c-8.837,0-16-7.164-16-16v-14
+	C366,128.164,373.163,121,382,121z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M382,121h77c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-77
+	c-8.837,0-16-7.164-16-16v-14C366,128.164,373.163,121,382,121z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M382,121h77c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-77
+	c-8.837,0-16-7.164-16-16v-14C366,128.164,373.163,121,382,121z"/>
+<text transform="matrix(1 0 0 1 372 135)" font-family="'ArialMT'" font-size="8">kSDI12_StatDChr</text>
+<line fill="none" stroke="#000000" x1="366" y1="145" x2="474" y2="145"/>
+<path stroke="#000000" d="M382,273h74c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-74c-8.837,0-16-7.164-16-16v-14
+	C366,280.164,373.163,273,382,273z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M382,273h74c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-74
+	c-8.837,0-16-7.164-16-16v-14C366,280.164,373.163,273,382,273z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M382,273h74c8.837,0,16,7.164,16,16v14c0,8.836-7.163,16-16,16h-74
+	c-8.837,0-16-7.164-16-16v-14C366,280.164,373.163,273,382,273z"/>
+<text transform="matrix(1 0 0 1 372 287)" font-family="'ArialMT'" font-size="8">kSDI12_StatDTst</text>
+<line fill="none" stroke="#000000" x1="366" y1="297" x2="471" y2="297"/>
+<path stroke="#000000" d="M440.603,358.189h99c8.837,0,16,7.164,16,16v14c0,8.837-7.163,16-16,16h-99c-8.837,0-16-7.163-16-16v-14
+	C424.603,365.354,431.766,358.189,440.603,358.189z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M440.603,358.189h99c8.837,0,16,7.164,16,16v14c0,8.837-7.163,16-16,16h-99
+	c-8.837,0-16-7.163-16-16v-14C424.603,365.354,431.766,358.189,440.603,358.189z"/>
+<path fill="#FFFFFF" stroke="#000000" d="M440.603,358.189h99c8.837,0,16,7.164,16,16v14c0,8.837-7.163,16-16,16h-99
+	c-8.837,0-16-7.163-16-16v-14C424.603,365.354,431.766,358.189,440.603,358.189z"/>
+<text transform="matrix(1 0 0 1 430.6001 372.1992)" font-family="'ArialMT'" font-size="8">kSDI12_StatWaitDBrk</text>
+<line fill="none" stroke="#000000" x1="424.603" y1="382.189" x2="554.603" y2="382.189"/>
+<line fill="none" stroke="#000000" x1="314" y1="33" x2="470" y2="33"/>
+<line fill="none" stroke="#000000" x1="458" y1="40" x2="470" y2="33"/>
+<line fill="none" stroke="#000000" x1="458" y1="26" x2="470" y2="33"/>
+<text transform="matrix(1 0 0 1 376 28)" font-family="'ArialMT'" font-size="8">PC Int</text>
+<line fill="none" stroke="#000000" x1="470" y1="57" x2="314" y2="57"/>
+<line fill="none" stroke="#000000" x1="326" y1="50" x2="314" y2="57"/>
+<line fill="none" stroke="#000000" x1="326" y1="64" x2="314" y2="57"/>
+<text transform="matrix(1 0 0 1 328 51)" font-family="'ArialMT'" font-size="8">PC Int &lt; 12 or &gt; 100 ms</text>
+<line fill="none" stroke="#000000" x1="630" y1="33" x2="764" y2="33"/>
+<line fill="none" stroke="#000000" x1="752" y1="40" x2="764" y2="33"/>
+<line fill="none" stroke="#000000" x1="752" y1="26" x2="764" y2="33"/>
+<text transform="matrix(1 0 0 1 657 28)" font-family="'ArialMT'" font-size="8">break detected</text>
+<line fill="none" stroke="#000000" x1="764" y1="57" x2="630" y2="57"/>
+<line fill="none" stroke="#000000" x1="642" y1="50" x2="630" y2="57"/>
+<line fill="none" stroke="#000000" x1="642" y1="64" x2="630" y2="57"/>
+<text transform="matrix(1 0 0 1 651 51)" font-family="'ArialMT'" font-size="8">PC Int &lt; 8.33 ms</text>
+<line fill="none" stroke="#000000" x1="821" y1="63" x2="821" y2="129"/>
+<line fill="none" stroke="#000000" x1="814" y1="117" x2="821" y2="129"/>
+<line fill="none" stroke="#000000" x1="828" y1="117" x2="821" y2="129"/>
+<text transform="matrix(1 0 0 1 823 99)" font-family="'ArialMT'" font-size="8">valid mark</text>
+<polyline fill="none" stroke="#000000" points="774,129 774,81 294,81 294,63 "/>
+<line fill="none" stroke="#000000" x1="301" y1="75" x2="294" y2="63"/>
+<line fill="none" stroke="#000000" x1="287" y1="75" x2="294" y2="63"/>
+<text transform="matrix(1 0 0 1 298 81)" font-family="'ArialMT'" font-size="8">Non-WSN SDI-12 address, or UART error / timeout</text>
+<line fill="none" stroke="#000000" x1="790" y1="175" x2="790" y2="217"/>
+<line fill="none" stroke="#000000" x1="783" y1="205" x2="790" y2="217"/>
+<line fill="none" stroke="#000000" x1="797" y1="205" x2="790" y2="217"/>
+<text transform="matrix(1 0 0 1 796 202)" font-family="'ArialMT'" font-size="8">WSN SDI-12 address or ?</text>
+<line fill="none" stroke="#000000" x1="790" y1="263" x2="790" y2="321"/>
+<line fill="none" stroke="#000000" x1="783" y1="309" x2="790" y2="321"/>
+<line fill="none" stroke="#000000" x1="797" y1="309" x2="790" y2="321"/>
+<g>
+	<line fill="none" stroke="#000000" x1="790" y1="392" x2="790" y2="440.5"/>
+	<line fill="none" stroke="#000000" x1="783" y1="432.527" x2="790" y2="440.5"/>
+	<line fill="none" stroke="#000000" x1="797" y1="432.527" x2="790" y2="440.5"/>
+</g>
+<text transform="matrix(1 0 0 1 800.7266 402.5)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Timer ISR</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Timer off</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Tx on</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Load char into Tx buffer</tspan></text>
+<line fill="none" stroke="#000000" x1="790" y1="486" x2="790" y2="561"/>
+<line fill="none" stroke="#000000" x1="783" y1="549" x2="790" y2="561"/>
+<line fill="none" stroke="#000000" x1="797" y1="549" x2="790" y2="561"/>
+<text transform="matrix(1 0 0 1 800.7266 495)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">TX ISR - M response transmitted</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Start 100 ms timout</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Turn timer on</tspan><tspan x="0" y="38.4" font-family="'ArialMT'" font-size="8">    -Rx off</tspan><tspan x="0" y="48" font-family="'ArialMT'" font-size="8">    -Disable Tx</tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="8">    -PC ISR on</tspan></text>
+<line fill="none" stroke="#000000" x1="565" y1="547" x2="558" y2="535"/>
+<text transform="matrix(1 0 0 1 556.5 560.5)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Timer ISR - WSN response ready</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Timer off</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Enable Tx</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Load SRQ into Tx buffer</tspan><tspan x="0" y="38.4" font-family="'ArialMT'" font-size="8">    -</tspan><tspan x="11.555" y="38.4" stroke="#DD3626" font-family="'ArialMT'" font-size="8">TURN PC ISR OFF!</tspan></text>
+<polyline fill="none" stroke="#000000" points="726,625 366,625 366,591 "/>
+<line fill="none" stroke="#000000" x1="373" y1="603" x2="366" y2="591"/>
+<line fill="none" stroke="#000000" x1="359" y1="603" x2="366" y2="591"/>
+<text transform="matrix(1 0 0 1 407 601.5)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">PC ISR</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Start 100ms timeout</tspan></text>
+<polyline fill="none" stroke="#000000" points="726,649 198,649 198,63 "/>
+<line fill="none" stroke="#000000" x1="205" y1="75" x2="198" y2="63"/>
+<line fill="none" stroke="#000000" x1="191" y1="75" x2="198" y2="63"/>
+<text transform="matrix(1 0 0 1 209.5 656)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Timer ISR - WSN response not ready after response time</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Disable Rx</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Timer off</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -PC ISR on</tspan></text>
+<polyline fill="none" stroke="#000000" points="286,569 214,569 214,63 "/>
+<line fill="none" stroke="#000000" x1="221" y1="75" x2="214" y2="63"/>
+<line fill="none" stroke="#000000" x1="207" y1="75" x2="214" y2="63"/>
+<line fill="none" stroke="#000000" x1="811.836" y1="75" x2="804.836" y2="63"/>
+<line fill="none" stroke="#000000" x1="797.229" y1="75" x2="804.229" y2="63"/>
+<line fill="none" stroke="#000000" x1="440" y1="358" x2="440" y2="319"/>
+<line fill="none" stroke="#000000" x1="447" y1="331" x2="440" y2="319"/>
+<line fill="none" stroke="#000000" x1="433" y1="331" x2="440" y2="319"/>
+<text transform="matrix(1 0 0 1 352 328)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">PC ISR - rising edge</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Start 200 ms timeout</tspan></text>
+<polyline fill="none" stroke="#000000" points="422,393 246,393 246,63 "/>
+<line fill="none" stroke="#000000" x1="253" y1="75" x2="246" y2="63"/>
+<line fill="none" stroke="#000000" x1="239" y1="75" x2="246" y2="63"/>
+<line fill="none" stroke="#000000" x1="388.354" y1="273" x2="388.354" y2="167"/>
+<line fill="none" stroke="#000000" x1="395.354" y1="179" x2="388.354" y2="167"/>
+<line fill="none" stroke="#000000" x1="381.354" y1="179" x2="388.354" y2="167"/>
+<text transform="matrix(1 0 0 1 391 191)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">PC ISR - less than 8.19 ms</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Start 10 ms timeout</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -PC INT off</tspan><tspan x="0" y="38.4" font-family="'ArialMT'" font-size="8">    -</tspan><tspan x="11.555" y="38.4" stroke="#F0522A" font-family="'ArialMT'" font-size="8">TURN RX ISR ON!</tspan></text>
+<polyline fill="none" stroke="#000000" points="366,313 246,313 246,63 "/>
+<line fill="none" stroke="#000000" x1="253" y1="75" x2="246" y2="63"/>
+<line fill="none" stroke="#000000" x1="239" y1="75" x2="246" y2="63"/>
+<polyline fill="none" stroke="#000000" points="472,305 662,305 662,105 790,105 790,63 "/>
+<line fill="none" stroke="#000000" x1="797" y1="75" x2="790" y2="63"/>
+<line fill="none" stroke="#000000" x1="783" y1="75" x2="790" y2="63"/>
+<line fill="none" stroke="#000000" x1="545" y1="358" x2="545" y2="287"/>
+<line fill="none" stroke="#000000" x1="552" y1="299" x2="545" y2="287"/>
+<line fill="none" stroke="#000000" x1="538" y1="299" x2="545" y2="287"/>
+<text transform="matrix(1 0 0 1 545 315)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Timer ISR - 85 ms</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Rx off</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Rx ISR on</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="38.4" font-family="'ArialMT'" font-size="8">    -Start 200 ms timeout</tspan></text>
+<line fill="none" stroke="#000000" x1="526.762" y1="241" x2="526.762" y2="191"/>
+<line fill="none" stroke="#000000" x1="533.762" y1="203" x2="526.762" y2="191"/>
+<line fill="none" stroke="#000000" x1="519.762" y1="203" x2="526.762" y2="191"/>
+<text transform="matrix(1 0 0 1 538 202)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">PC Int - valid break</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    - Reset timer</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Start 8.19 ms timeout</tspan></text>
+<polyline fill="none" stroke="#000000" points="366,153 278,153 278,63 "/>
+<line fill="none" stroke="#000000" x1="285" y1="75" x2="278" y2="63"/>
+<line fill="none" stroke="#000000" x1="271" y1="75" x2="278" y2="63"/>
+<text transform="matrix(1 0 0 1 280 136)" font-family="'ArialMT'" font-size="8">timeout</text>
+<g>
+	<line fill="none" stroke="#000000" x1="761.011" y1="251.994" x2="773.011" y2="244.994"/>
+	<polyline fill="none" stroke="#000000" points="761.011,237.994 773.011,244.994 742,244.99 742,137 475,137 	"/>
+</g>
+<text transform="matrix(1 0 0 1 497 105)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Rx ISR</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Store incoming char</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Set timeout for 1 char duration</tspan></text>
+<line fill="none" stroke="#000000" x1="253" y1="75" x2="246" y2="63"/>
+<line fill="none" stroke="#000000" x1="239" y1="75" x2="246" y2="63"/>
+<polyline fill="none" stroke="#000000" points="617,161 662,161 662,105 790,105 790,63 "/>
+<line fill="none" stroke="#000000" x1="797" y1="75" x2="790" y2="63"/>
+<line fill="none" stroke="#000000" x1="783" y1="75" x2="790" y2="63"/>
+<text transform="matrix(1 0 0 1 665 270)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">PC ISR - greater than 12 ms</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Start 8.19 ms timeout</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -Timer on</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Turn on PC ISR</tspan></text>
+<g>
+	<line fill="none" stroke="#000000" x1="446" y1="489" x2="446" y2="404.2"/>
+	<line fill="none" stroke="#000000" x1="453" y1="417.951" x2="446" y2="404.2"/>
+	<line fill="none" stroke="#000000" x1="439" y1="417.951" x2="446" y2="404.2"/>
+</g>
+<text transform="matrix(1 0 0 1 453 417.9512)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="8">Tx ISR - SRQ transmitted</tspan><tspan x="0" y="9.6" font-family="'ArialMT'" font-size="8">    -Start 85 ms timeout</tspan><tspan x="0" y="19.2" font-family="'ArialMT'" font-size="8">    -</tspan><tspan x="11.555" y="19.2" fill="none" stroke="#F04D23" font-family="'ArialMT'" font-size="8">TURN TIMER ON!</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="8">    -Reset timer</tspan><tspan x="0" y="38.4" font-family="'ArialMT'" font-size="8">    -Rx on</tspan><tspan x="0" y="48" font-family="'ArialMT'" font-size="8">    -Rx ISR off</tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="8">    -Disable Tx</tspan><tspan x="0" y="67.2" font-family="'ArialMT'" font-size="8">    -PC ISR on</tspan></text>
+<line fill="none" stroke="#000000" x1="142" y1="41" x2="174" y2="41"/>
+<line fill="none" stroke="#000000" x1="162" y1="48" x2="174" y2="41"/>
+<line fill="none" stroke="#000000" x1="162" y1="34" x2="174" y2="41"/>
+<polyline fill="none" stroke="#000000" points="551,542.556 558,535 559,603 726,603 "/>
+<g>
+	<line fill="none" stroke="#000000" x1="366" y1="545.597" x2="366" y2="491.597"/>
+	<line fill="none" stroke="#000000" x1="373" y1="500.354" x2="366" y2="491.597"/>
+	<line fill="none" stroke="#000000" x1="359" y1="500.354" x2="366" y2="491.597"/>
+</g>
+<text transform="matrix(1 0 0 1 333 487.5)" font-family="'ArialMT'" font-size="8">kSDI12_StatTstMrk</text>
+<text transform="matrix(1 0 0 1 795.4004 270.2002)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="8">RX ISR - Command terminator (!)</tspan><tspan x="0" y="9.6" font-family="'MyriadPro-Regular'" font-size="8">    -Rx off</tspan><tspan x="0" y="19.2" font-family="'MyriadPro-Regular'" font-size="8">    -PC INT off</tspan><tspan x="0" y="28.8" font-family="'MyriadPro-Regular'" font-size="8">    -Reset Timer</tspan><tspan x="0" y="38.4" font-family="'MyriadPro-Regular'" font-size="8">    -Enable Tx - </tspan><tspan x="47.143" y="38.4" stroke="#F26128" font-family="'MyriadPro-Regular'" font-size="8">WHY?</tspan><tspan x="0" y="48" stroke="#F26128" font-family="'MyriadPro-Regular'" font-size="8">    </tspan><tspan x="6.783" y="48" font-family="'MyriadPro-Regular'" font-size="8">-Timer on</tspan><tspan x="0" y="57.6" font-family="'MyriadPro-Regular'" font-size="8">    </tspan></text>
+</svg>
