@@ -12,3 +12,5 @@ The project includes c code to run on an AVR microcontroller and schematics and 
 The project was originally developed in 2010, and bench tested successfully. The hardware has not been field tested. 
 
 The software and related documentation on these web pages were developed by the U.S. Geological Survey (USGS) for use by the USGS in fulfilling its mission. The software can be used, copied, modified, and distributed without any fee or cost. Use of appropriate credit is requested. The USGS provides no warranty, expressed or implied, as to the correctness of the furnished software or the suitability for any purpose. The software has been tested, but as with any complex software, there could be undetected errors. 
+
+![State chart](/Statechart_WSN.svg?raw=true "State chart")
