@@ -5,6 +5,7 @@ This project is intended to allow wireless sensor networks - in particular, XBee
 
 Additional detail is provided in the conference abstract and poster here:
 https://www.researchgate.net/publication/266385447_Expanding_the_Usefulness_of_Existing_Data-Collection_Infrastructure_with_Wireless_Sensor_Networks
+and in the draft manuscript provided in the Word document. 
 
 The project includes c code to run on an AVR microcontroller and schematics and board layouts for producing PCB's for the bridge and node unit. The nodes are intended for use with voltage-output soil moisture probes but could be modified for other sensors. NOTE: the project is not designed to implement SDI-12 sensors in a wireless sensor network. 
 
